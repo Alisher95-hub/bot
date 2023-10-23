@@ -25,7 +25,7 @@ bot.use(async (ctx, next) => {
       ctx.reply("Botdan foydalanish uchun kanalimizga obuna bo'ling", {
         reply_markup: {
           inline_keyboard: [
-            [{ text: "Kanalga obuna bo'lish", url: "https://t.me/multilevel_speakApp" }]
+            [{ text: "Kanalga obuna bo'lish", url: "https://t.me/onlineustoz_12" }]
           ]
         }
       });
