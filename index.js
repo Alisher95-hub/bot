@@ -139,7 +139,7 @@ bot.action('mock', (ctx) => {
 // Add similar actions for other menu items like 'listening', 'writing', 'speaking', and 'mock'.
 
 bot.hears('📢 Reklama', (ctx) => ctx.reply('Tijoriy maqsadlar uchun @javlon_developer bilan bog\'laning'));
-bot.hears('⤵️ Kanalimiz', (ctx) => ctx.reply('Kanalimizga ulaning: @multilevel_speakApp'));
+bot.hears('⤵️ Kanalimiz', (ctx) => ctx.reply('Kanalimizga ulaning: @onlineustoz_12'));
 bot.hears('🌐 Ilovamiz', (ctx) => ctx.reply(' https://play.google.com/store/apps/details?id=vercel.multiexam.app'));
 bot.hears('✅ Biz haqimizda', (ctx) => ctx.reply('Ushbu bot Edumo jamoasi (@edumo_uz) tomonidan yaratilgan bo\'lib, botdan foydalanish mutlaqo bepul.\n\n 📩 Taklif va shikoyatlaringiz bo\'lsa, @javlon_developer ga yuboring '));
 
