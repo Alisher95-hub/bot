@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dot": "^1.1.3",
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "telegraf-wit": "^2.1.0"
+  },
+  "name": "witai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
